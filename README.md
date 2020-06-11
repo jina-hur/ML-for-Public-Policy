@@ -37,5 +37,5 @@ To run the code, all files listed below should be downloded in the same folder:
 - scikit-learn 0.22.1
 - datetime (python's built-in module)
 
-## Reference:
+## Reference
 - Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12
