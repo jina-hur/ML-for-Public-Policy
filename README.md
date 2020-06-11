@@ -28,7 +28,7 @@ To run the code, all files listed below should be downloded in the same folder:
 ## Report Submission
 - **ML Project Final Report_Fujino, Hur, Kitamura, Woo.pdf** [tentative link](https://github.com/jina-hur/ML-for-Public-Policy/blob/master/0612%20v4%20ML%20Project%20Final%20Report%20-%20Fujino%2C%20Hur%2C%20Kitamura%2C%20Woo.docx): 10 single-spaced pages final report
 
-## Required libraries and Dependency
+## Required Libraries and Dependency
 - python 3.7.6
 - pandas 1.0.1
 - numpy 1.18.4
