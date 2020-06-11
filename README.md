@@ -7,15 +7,15 @@ Tetsuo Fujino (tfujino), Jinyoung Hur (jinahur), Takayuki Kitamura (kitamura), S
 
 ## Running the Code
 To run the code, all files listed below should be downloded in the same folder:
- - **ML Project.ipynb**: this is our jupyter notebook to run all relevant codes (code chunk outputs are visible)
- - **data (folder)**: please download all data files (.csv and .xls) listed below
+ - **ML Project.ipynb** [link](https://github.com/jina-hur/ML-for-Public-Policy/blob/master/0611v1%20Machine%20Learning%20Final%20Project.ipynb): this is our jupyter notebook to run all relevant codes (code chunk outputs are visible)
+ - **data** [link](https://github.com/jina-hur/ML-for-Public-Policy/tree/master/data): please download all data files (.csv and .xls) listed below
    - consumption_behavior.xls
    - covid.csv
    - education.csv
    - obesity.csv
    - income.csv
    - total_population.csv
- - **pipeline_.py**: machine learning pipeline (helper function) that is used for ML Final Project.ipynb
+ - **pipeline_.py** [link](https://github.com/jina-hur/ML-for-Public-Policy/blob/master/pipeline_.py): machine learning pipeline (helper function) that is used for ML Final Project.ipynb
    - Read data (read_data)
    - Explore data (find_min_max, find_mean_std, plot_distribution)
    - Create training and testing sets (create_train_test)
