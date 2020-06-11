@@ -2,6 +2,7 @@
 ## Final Project
 
 **Project Title**: Policy recommendation for preventing obesity, a potential predictor for Coronavirus disease.
+
 **Team members**: Tetsuo Fujino (tfujino), Jinyoung Hur (jinahur), Takayuki Kitamura (kitamura), Sarah Woo (sarahwoo)
 
 You will find the files listed below:
