@@ -4,6 +4,9 @@ Policy recommendation for preventing obesity, a potential predictor for Coronavi
 
 ## Team Members
 Tetsuo Fujino (tfujino), Jinyoung Hur (jinahur), Takayuki Kitamura (kitamura), Sarah Woo (sarahwoo)
+   
+## Report Submission
+- **ML Project Final Report_Fujino, Hur, Kitamura, Woo.pdf** [tentative link](https://github.com/jina-hur/ML-for-Public-Policy/blob/master/0612%20v4%20ML%20Project%20Final%20Report%20-%20Fujino%2C%20Hur%2C%20Kitamura%2C%20Woo.docx): 10 single-spaced pages final report
 
 ## Running the Code
 To run the code, all files listed below should be downloded in the same folder:
@@ -24,9 +27,6 @@ To run the code, all files listed below should be downloded in the same folder:
    - Build pipeline for training and testing machine learning models (build_apply_model)
    - Evaluate classifiers (evaluate_classifiers, get_precision, get_recall)
    - Summarize model results (summarize_best_model_result, obtain_match_rate)
-   
-## Report Submission
-- **ML Project Final Report_Fujino, Hur, Kitamura, Woo.pdf** [tentative link](https://github.com/jina-hur/ML-for-Public-Policy/blob/master/0612%20v4%20ML%20Project%20Final%20Report%20-%20Fujino%2C%20Hur%2C%20Kitamura%2C%20Woo.docx): 10 single-spaced pages final report
 
 ## Required Libraries and Dependency
 - python 3.7.6
