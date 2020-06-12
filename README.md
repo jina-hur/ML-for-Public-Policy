@@ -6,7 +6,7 @@ Policy recommendation for preventing obesity, a potential predictor for Coronavi
 Tetsuo Fujino (tfujino), Jinyoung Hur (jinahur), Takayuki Kitamura (kitamura), Sarah Woo (sarahwoo)
    
 ## Report Submission
-- **ML Project Final Report_Fujino, Hur, Kitamura, Woo.pdf** [tentative link](https://github.com/jina-hur/ML-for-Public-Policy/blob/master/0612%20v4%20ML%20Project%20Final%20Report%20-%20Fujino%2C%20Hur%2C%20Kitamura%2C%20Woo.docx): 10 single-spaced pages final report
+- **ML Project Final Report_Fujino, Hur, Kitamura, Woo.pdf** [link](https://github.com/jina-hur/ML-for-Public-Policy/blob/master/ML%20Project%20Final%20Report%20-%20Fujino%2C%20Hur%2C%20Kitamura%2C%20Woo.pdf): 10 single-spaced pages final report
 
 ## Running the Code
 To run the code, all files listed below should be downloded in the same folder:
